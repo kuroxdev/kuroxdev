@@ -41,15 +41,7 @@
 ## 🏆 GitHub Trophies
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=kuroxdev&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=discord&no-frame=true&column=4&margin-w=15&margin-h=15" />
 
-## 🎯 Featured Projects
 
-<a href="https://github.com/kuroxdev/marketplace">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kuroxdev&repo=marketplace&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-</a>
-
-<a href="https://github.com/kuroxdev/ecommerce">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kuroxdev&repo=ecommerce&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-</a>
 
 ## 🚀 Current Focus
 
