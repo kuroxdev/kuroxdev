@@ -82,7 +82,6 @@ const iheb = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kuroxdev/kuroxdev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kuroxdev/kuroxdev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kuroxdev/kuroxdev/output/ocean.gif" />
 </picture>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
